@@ -1,0 +1,6 @@
+print("length of string:")
+print(len("Programiz"))
+print("Number of items:")
+print(len(["Python", "Java", "C"]))
+print("Number of keys:")
+print(len({"Name": "John", "Address": "Nepal"}))
